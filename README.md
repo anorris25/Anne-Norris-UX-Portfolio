@@ -1,2 +1,2 @@
 # UXPortfolio
-This repository holds my UX portfolio
+This repository holds my UX portfolio.
